@@ -1,2 +1,5 @@
-# AndroidRecyclerViewCardViewKotlin
-Este repositório tem um projeto base com os recursos: - Recycler View - Card View
+# Android - RecyclerView + CardView + Kotlin
+
+Este repositório contém um projeto base em Kotlin, com os recursos: 
+- Recycler View; 
+- Card View.
